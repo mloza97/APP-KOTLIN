@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#DCEAF4</color>
+    <color name="toolbar_gb">#C493BDDA</color>
+    <color name="black">@android:color/black</color>
+    <color name="white">@android:color/white</color>
+    <color name="color_blue_dark">#104d81</color>
+    <color name="lightGrayColor">#a9a9a9</color>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorBack">#8BA170</color>
+    <color name="colorButton">#075A4E</color>
+</resources>

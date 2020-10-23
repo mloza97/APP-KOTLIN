@@ -1,0 +1,71 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/background</item>
+        <item name="colorPrimaryDark">@color/background</item>
+        <item name="colorAccent">@color/color_blue_dark</item>
+
+    </style>
+    <!-- ACTIONBAR -->
+    <style name="MyActionBar" parent="@android:style/Widget.Holo.Light.ActionBar">
+        <item name="android:background">@color/black</item>
+    </style>
+    <!-- TOOLBAR -->
+    <style name="AppTheme.Toolbar" parent="AppTheme">
+        <item name="colorControlNormal">@android:color/black</item>
+        <item name="titleTextColor">@android:color/white</item>
+    </style>
+
+    <!-- Dark Button Theme -->
+    <style name="AppDarkButton" parent="android:style/Widget.Button">
+        <item name="android:textSize">@dimen/medium_text</item>
+        <item name="android:layout_margin">@dimen/extras_mall_padding</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textStyle">bold</item>
+        <item name="backgroundTint">@color/color_blue_dark</item>
+        <item name="android:background">@drawable/shape_semicurved_bottom</item>
+    </style>
+
+    <!-- White Button Theme -->
+    <style name="AppWhiteButton" parent="android:style/Widget.Button">
+        <item name="android:textSize">@dimen/medium_text</item>
+        <item name="android:layout_margin">@dimen/extras_mall_padding</item>
+        <item name="android:textColor">@color/color_blue_dark</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:background">@drawable/shape_semicurved_transparent_button</item>
+    </style>
+
+    <!-- Custom Dialog Theme -->
+    <style name="CustomDialogTheme">
+        <item name="android:windowBackground">@android:color/transparent</item>
+    </style>
+
+    <!-- Custom TextView Title Theme -->
+    <style name="TextViewSubTitle">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/color_blue_dark</item>
+        <item name="android:textSize">@dimen/small_text</item>
+    </style>
+
+    <style name="TextViewTitleCardView">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">@dimen/size_tile</item>
+    </style>
+
+    <!-- Custom TextView Normal Text Theme -->
+    <style name="TextViewBodyWhite">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">@dimen/small_text</item>
+    </style>
+
+    <!-- Custom TextView Normal Text Theme -->
+    <style name="TextViewBodyDark">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">@dimen/small_text</item>
+    </style>
+
+</resources>

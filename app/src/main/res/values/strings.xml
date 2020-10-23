@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Inicio</string>
+    <string name="sign_in">Ingresar</string>
+    <string name="user">Usuario</string>
+    <string name="pass">Contraseña</string>
+    <string name="title_1">¿Objetivo?</string>
+    <string name="objetivo">El objetivo de esta norma es brindar al consumidor final información comercial y sanitaria sobre el contenido de nutrimentos críticos e ingredientes que representan un riesgo para la salud en los productos preenvasados. Esto, por medio de un etiquetado claro, veraz y fácil de entende.</string>
+    <string name="title_2">¿Cómo será el nuevo etiquetado?</string>
+    <string name="descr">Constará de cinco sellos cuando un producto tenga exceso de calorías, sodio, grasas trans, azúcares y grasas saturadas.
+                        La cantidad de estos nutrimentos en los productos se limitará con base en el Perfil de Nutrientes de la Organización Panamericana de la Salud (OPS), cuando excedan la cantidad de azúcares, grasas saturadas, grasas trans, sodio y calorías. Estos criterios nutrimentales se implementarán de forma gradual mediante tres fases.
+                        Y dos leyendas precautorias, la primera para productos que contengan edulcorantes y la segunda para aquellos con cafeína, para evitar que niñas y niños los consuman.</string>
+
+</resources>

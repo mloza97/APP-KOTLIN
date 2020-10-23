@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="extras_mall_padding">8dp</dimen>
+    <dimen name="minimun_padding">12dp</dimen>
+    <dimen name="small_padding">16dp</dimen>
+    <dimen name="small_radius">3dp</dimen>
+    <dimen name="small_margin">16dp</dimen>
+    <dimen name="small_margin_top">-20dp</dimen>
+    <dimen name="size_margin_end">24dp</dimen>
+    <dimen name="size_margin_left">250dp</dimen>
+    <dimen name="small_text">16sp</dimen>
+    <dimen name="size_text">13sp</dimen>
+    <dimen name="small_size_text">11sp</dimen>
+    <dimen name="medium_text">18sp</dimen>
+    <dimen name="size_tile">22sp</dimen>
+    <dimen name="normal_padding_left">20dp</dimen>
+    <dimen name="normal_padding_right">20dp</dimen>
+    <dimen name="extra_big_120_padding">120dp</dimen>
+    <dimen name="extra_big_150_padding">150dp</dimen>
+    <dimen name="normal_padding">24dp</dimen>
+    <dimen name="medium_padding">28dp</dimen>
+    <dimen name="big_padding">32dp</dimen>
+    <dimen name="extra_big_padding">40dp</dimen>
+    <dimen name="extra_big_big_padding">80dp</dimen>
+    <dimen name="size_button_floating">40dp</dimen>
+    <dimen name="basic_button_size">50dp</dimen>
+    <dimen name="extra_button_size">70dp</dimen>
+    <dimen name="small_button_size">120dp</dimen>
+    <dimen name="medium_button_size">200dp</dimen>
+    <dimen name="cardview_height_size">200dp</dimen>
+    <dimen name="big_button_size">300dp</dimen>
+    <dimen name="progress_dialog_size">150dp</dimen>
+    <dimen name="size_medium_icon">45dp</dimen>
+    <dimen name="size_small_icon">25dp</dimen>
+</resources>
